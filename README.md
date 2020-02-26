@@ -1,2 +1,3 @@
 # lineageos_vendor_xiaomi_sakura
 form miui11 for vendor_sakura
+lineageos_vendor_xiaomi_sakura && lineageos_vendor_xiaomi_msm8953-common
